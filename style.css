@@ -1,0 +1,8 @@
+.body_backgorund{
+    background-image:url("bg1.jpg") ;
+}
+ #my_canvas{
+     border-width: 50px;
+     border-style:solid;
+     background-color: aqua;
+ }
